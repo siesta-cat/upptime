@@ -4,35 +4,39 @@
     "url": "https://bizcochito.siesta.cat",
     "icon": "https://icons.duckduckgo.com/ip3/bizcochito.siesta.cat.ico",
     "slug": "bizcochito-personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 427,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
-    "dailyMinutesDown": {}
+    "time": 455,
+    "timeDay": 419,
+    "timeWeek": 455,
+    "timeMonth": 455,
+    "timeYear": 455,
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   },
   {
     "name": "Stickee",
     "url": "https://stickee.siesta.cat",
     "icon": "https://icons.duckduckgo.com/ip3/stickee.siesta.cat.ico",
     "slug": "stickee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 562,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
-    "dailyMinutesDown": {}
+    "time": 528,
+    "timeDay": 548,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   }
 ]
