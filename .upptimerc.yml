@@ -7,6 +7,10 @@ sites:
     url: https://bizcochito.siesta.cat
   - name: Stickee
     url: https://stickee.siesta.cat
+  - name: Siesta Write
+    url: https://write.siesta.cat
+  - name: RSS Reader
+    url: https://rss.siesta.cat
 
 status-website:
   cname: uptime.siesta.cat
