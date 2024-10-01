@@ -61,19 +61,19 @@
     "url": "https://rss.siesta.cat",
     "icon": "https://icons.duckduckgo.com/ip3/rss.siesta.cat.ico",
     "slug": "rss-reader",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 393,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 490,
+    "timeDay": 398,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-10-01": 0
+      "2024-10-01": 18
     }
   }
 ]
