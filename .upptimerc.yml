@@ -3,8 +3,6 @@ owner: AlieNeon # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Bizcochito Personal Website
-    url: https://bizcochito.siesta.cat
   - name: Stickee
     url: https://stickee.siesta.cat
   - name: Siesta Write
