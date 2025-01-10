@@ -9,6 +9,10 @@ sites:
     url: https://write.siesta.cat
   - name: RSS Reader
     url: https://rss.siesta.cat
+  - name: Gotosocial Instance
+    url: https://social.siesta.cat
+  - name: Authelia
+    url: https://auth.siesta.cat
 
 status-website:
   cname: status.siesta.cat
