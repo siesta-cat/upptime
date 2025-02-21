@@ -1,7 +1,7 @@
 url: https://social.siesta.cat
-status: up
-code: 200
-responseTime: 872
-lastUpdated: 2025-02-12T15:17:57.414Z
+status: down
+code: 502
+responseTime: 406
+lastUpdated: 2025-02-21T10:53:06.736Z
 startTime: 2025-01-10T17:28:19.264Z
 generator: Upptime <https://github.com/upptime/upptime>
