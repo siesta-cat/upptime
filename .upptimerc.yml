@@ -13,6 +13,12 @@ sites:
     url: https://social.siesta.cat
   - name: Authelia
     url: https://auth.siesta.cat
+  - name: Ldap
+    url: https://ldap.siesta.cat
+  - name: Forgejo
+    url: https://git.siesta.cat
+  - name: Vaultwarden
+    url: https://vaultwarden.siesta.cat
 
 status-website:
   cname: status.siesta.cat
