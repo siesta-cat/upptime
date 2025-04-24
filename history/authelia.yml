@@ -1,7 +1,7 @@
 url: https://auth.siesta.cat
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2025-04-24T02:48:54.724Z
+status: down
+code: 503
+responseTime: 616
+lastUpdated: 2025-04-24T10:22:41.442Z
 startTime: 2025-01-10T17:28:20.289Z
 generator: Upptime <https://github.com/upptime/upptime>
