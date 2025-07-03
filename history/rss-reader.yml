@@ -1,7 +1,7 @@
 url: https://rss.siesta.cat
-status: up
-code: 200
-responseTime: 693
-lastUpdated: 2025-06-25T05:35:07.450Z
+status: down
+code: 502
+responseTime: 339
+lastUpdated: 2025-07-03T17:45:35.761Z
 startTime: 2024-09-29T17:47:23.180Z
 generator: Upptime <https://github.com/upptime/upptime>
