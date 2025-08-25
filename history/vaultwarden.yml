@@ -1,7 +1,7 @@
 url: https://vaultwarden.siesta.cat
-status: down
-code: 503
-responseTime: 523
-lastUpdated: 2025-08-25T22:44:19.872Z
+status: up
+code: 200
+responseTime: 403
+lastUpdated: 2025-08-25T22:51:59.858Z
 startTime: 2025-03-24T18:43:16.054Z
 generator: Upptime <https://github.com/upptime/upptime>
