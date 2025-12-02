@@ -1,7 +1,7 @@
 url: https://ldap.siesta.cat
-status: up
-code: 200
-responseTime: 554
-lastUpdated: 2025-12-01T11:41:16.521Z
+status: down
+code: 503
+responseTime: 726
+lastUpdated: 2025-12-02T16:48:02.432Z
 startTime: 2025-03-24T18:43:14.759Z
 generator: Upptime <https://github.com/upptime/upptime>
