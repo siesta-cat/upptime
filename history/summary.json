@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.siesta.cat.ico",
     "slug": "rss-reader",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.50%",
@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2690,
-    "timeYear": 896,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2026-03-18": 184,
       "2026-03-14": 888,
@@ -53,9 +53,7 @@
       "2025-04-28": 471,
       "2025-04-27": 8,
       "2025-04-24": 188,
-      "2025-04-23": 38,
-      "2025-04-06": 17,
-      "2025-04-04": 11
+      "2025-04-23": 38
     }
   },
   {
@@ -63,19 +61,18 @@
     "url": "https://social.siesta.cat",
     "icon": "https://icons.duckduckgo.com/ip3/social.siesta.cat.ico",
     "slug": "gotosocial-instance",
-    "status": "down",
-    "uptime": "97.83%",
-    "uptimeDay": "99.99%",
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.50%",
-    "uptimeYear": "97.47%",
-    "time": 1390,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 935,
-    "timeYear": 1624,
+    "uptimeYear": "97.48%",
+    "time": 1381,
+    "timeDay": 672,
+    "timeWeek": 641,
+    "timeMonth": 869,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2026-04-02": 0,
       "2026-03-18": 184,
       "2026-03-14": 888,
       "2026-03-13": 1440,
@@ -110,9 +107,7 @@
       "2025-04-28": 467,
       "2025-04-27": 19,
       "2025-04-24": 169,
-      "2025-04-23": 38,
-      "2025-04-06": 39,
-      "2025-04-04": 12
+      "2025-04-23": 38
     }
   },
   {
@@ -121,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ldap.siesta.cat.ico",
     "slug": "ldap",
     "status": "up",
-    "uptime": "97.56%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.51%",
@@ -174,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.siesta.cat.ico",
     "slug": "forgejo",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.57%",
@@ -183,7 +178,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 739,
-    "timeYear": 748,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2026-03-18": 182,
       "2026-03-14": 859,
@@ -221,9 +216,7 @@
       "2025-05-04": 10,
       "2025-04-28": 467,
       "2025-04-24": 188,
-      "2025-04-23": 38,
-      "2025-04-06": 17,
-      "2025-04-04": 24
+      "2025-04-23": 38
     }
   },
   {
@@ -232,7 +225,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.siesta.cat.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.58%",
