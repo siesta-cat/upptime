@@ -13,6 +13,8 @@ sites:
     url: https://git.siesta.cat
   - name: Vaultwarden
     url: https://vaultwarden.siesta.cat
+  - name: Matrix
+    url: https://matrix.siesta.cat/_matrix/client/versions
 
 status-website:
   cname: status.siesta.cat
